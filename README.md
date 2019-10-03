@@ -1,16 +1,24 @@
 # Welcome to GitHub
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+My name is James, I'm hoping to become a software developer for a company which works on scheduling software for robotic biochemical assays.  GitHub is where I hope to be developing code.
+
+It seems like GitHub is a place where software developers regularly work on code together, where changes can be made and tested and where I can get feedback and input and have an impact on emerging projects.  I think alot that goes on at my company happens in GitHub and I hope to be able to work with the programs that are there.
 
 ## Repositories
 
 Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
 
+I would like to find out where the Transcriptic repositories are and which repositories are directly influencing my projects.
+
 This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+
+Okay, HTML code, CSS stylsheet, and Readme file.  Folder with one image file.
 
 ## Describe your project
 
 You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+
+If nothing else, this should contain a kind of running log on what I discover about the whole Transcriptic architecture and where I can fit in and make design changes. 
 
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
